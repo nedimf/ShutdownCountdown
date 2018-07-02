@@ -2,6 +2,8 @@
 
 Python script for shutting down computer and task,at late night. 
 
+Python 2.7
+
 ## Setup ShutdownCountdown
 
 ### Requirements:
